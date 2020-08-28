@@ -1,0 +1,105 @@
+{
+  "Persons": [
+    {
+      "Additional": null,
+      "Age": 0,
+      "Id": 0,
+      "Items": null,
+      "Name": ""
+    },
+    {
+      "Additional": {
+        "IsArray": false,
+        "Type": "ItemStaticData",
+        "Values": [
+          1
+        ]
+      },
+      "Age": 28,
+      "Id": 1,
+      "Items": {
+        "IsArray": true,
+        "Type": "ItemStaticData",
+        "Values": [
+          1,
+          2
+        ]
+      },
+      "Name": "Вася пупкин"
+    },
+    {
+      "Additional": {
+        "IsArray": false,
+        "Type": "ItemStaticData",
+        "Values": [
+          2
+        ]
+      },
+      "Age": 35,
+      "Id": 2,
+      "Items": {
+        "IsArray": true,
+        "Type": "ItemStaticData",
+        "Values": [
+          3
+        ]
+      },
+      "Name": "Петр"
+    },
+    {
+      "Additional": {
+        "IsArray": false,
+        "Type": "ItemStaticData",
+        "Values": [
+          3
+        ]
+      },
+      "Age": 18,
+      "Id": 3,
+      "Items": {
+        "IsArray": true,
+        "Type": "ItemStaticData",
+        "Values": []
+      },
+      "Name": "Вероника"
+    },
+    {
+      "Additional": {
+        "IsArray": false,
+        "Type": "ItemStaticData",
+        "Values": [
+          4
+        ]
+      },
+      "Age": 20,
+      "Id": 4,
+      "Items": {
+        "IsArray": true,
+        "Type": "ItemStaticData",
+        "Values": [
+          5
+        ]
+      },
+      "Name": "Люба"
+    },
+    {
+      "Additional": {
+        "IsArray": false,
+        "Type": "ItemStaticData",
+        "Values": [
+          5
+        ]
+      },
+      "Age": 45,
+      "Id": 5,
+      "Items": {
+        "IsArray": true,
+        "Type": "ItemStaticData",
+        "Values": [
+          4
+        ]
+      },
+      "Name": "Сергей"
+    }
+  ]
+}
